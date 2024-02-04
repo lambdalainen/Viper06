@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP VIPER06LS
+D VIPerPlus family: Energy saving high voltage converter for direct feedback
+K
+F https://www.st.com/resource/en/datasheet/viper06.pdf
+$ENDCMP
+#
+#End Doc Library
