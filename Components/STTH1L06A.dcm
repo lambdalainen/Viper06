@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP STTH1L06A
+D Turbo2 rectifier STTH1L06A 1A 600V STMicroelectronics STTH1L06A, SMT Switching Diode, 600V 1A, 80ns, 2-Pin DO-214AC
+K
+F http://www.st.com/web/en/resource/technical/document/datasheet/CD00002694.pdf
+$ENDCMP
+#
+#End Doc Library
